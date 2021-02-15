@@ -8,7 +8,7 @@
   - sudo python 读取系统WIFI.py
   
 #Python3
-![Image text](/wifi/pic/1.jpg)
+![Image text](/wifi/pic/2.png)
 
 #Java
-![Image text](/wifi/pic/2.jpg)
+![Image text](/wifi/pic/1.png)
